@@ -1,0 +1,6 @@
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\bin\Debug\WebsocketDemo.exe.config
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\bin\Debug\WebsocketDemo.exe
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\bin\Debug\WebsocketDemo.pdb
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\obj\Debug\WebsocketDemo.csprojResolveAssemblyReference.cache
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\obj\Debug\WebsocketDemo.exe
+c:\users\ady8\documents\visual studio 2015\Projects\WebsocketDemo\WebsocketDemo\obj\Debug\WebsocketDemo.pdb
